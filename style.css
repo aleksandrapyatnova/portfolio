@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=Pangolin&display=swap');
+body {
+    background-color:  #f8f4e3;
+    font-family: 'Aladin', 'Pangolin';
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1024px;
+    margin: auto;
+    background-color: #abdbff;
+    display: flex;
+    border-radius: 10px;
+
+}
+main {
+    border-radius: 10px;
+    background-color: #abdbff;
+    margin: auto;
+    padding:  100px 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1024px;
+}
+
+a {
+    text-decoration: none;
+    display: flex;
+}
+.logo {
+    font-size: 45px;
+    color: #1061bd;
+}
+h1 {
+    font-size: 64px;
+    color: #1061bd;
+    font-family: 'Pangolin';
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+}
+img {
+    width: 300px;
+    display: flex;
+    border-radius: 10px;
+
+}
+.card {
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin: 10px 15px;
+    padding: 25px;
+    display: flex;
+    justify-content: first center;
+    align-items: center;
+    border: 5px solid rgb(63, 151, 245);
+}
+.nam {
+    border: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #3985e9;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Pangolin';
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1024px;
+    margin: auto;
+    background-color: #abdbff;
+    display: flex;
+    border-radius: 10px;
+
+}
